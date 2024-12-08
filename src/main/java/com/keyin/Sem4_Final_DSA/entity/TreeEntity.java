@@ -2,7 +2,6 @@ package com.keyin.Sem4_Final_DSA.entity;
 
 import com.keyin.Sem4_Final_DSA.trees.BinaryNode;
 import com.keyin.Sem4_Final_DSA.trees.BinaryNodeConverter;
-
 import jakarta.persistence.*;
 
 @Entity

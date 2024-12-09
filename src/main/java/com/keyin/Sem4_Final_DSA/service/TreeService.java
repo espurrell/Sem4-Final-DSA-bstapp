@@ -82,4 +82,7 @@ public class TreeService {
 
         return node;
     }
+
+    public BinarySearchTree getBinarySearchTreeById(int id) {
+    }
 }

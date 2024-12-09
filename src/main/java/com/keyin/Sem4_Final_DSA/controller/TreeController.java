@@ -20,7 +20,7 @@ public class TreeController {
     @Autowired
     private TreeService treeService;
 
-     @PostMapping("/process-numbers")
+    @PostMapping("/process-numbers")
     public ResponseEntity<String> processNumbers(@RequestParam String numbers) {
         System.out.println("Received numbers: " + numbers); // Log the input
 
